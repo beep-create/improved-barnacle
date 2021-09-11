@@ -1,0 +1,70 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 30px;
+    font-family: 'Handlee', cursive;
+    font-weight: bolder;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    padding: 25px;
+    
+  }
+
+  .heading_div:hover{
+  background: white;
+  font-size: 20px;
+  color: black;
+  }
+
+  .heading_div2
+  {
+    font-size: 15px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
+  .copy_right_footer {
+    bottom: 0;
+    margin-top: 425px;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+    font-family: 'Handlee', cursive;
+  }
+  
+.oceana-info {
+  font-family: 'Poiret One', cursive;
+  font-weight: bolder;
+  font-size: 15px;
+  border-radius: 10px;
+  background-color: lightskyblue;
+  color: white;
+  border: 1px solid black;
+}
+
+.oceana-info:hover{
+color: black;
+font-size: 20px;
+border: 1px solid white;
+}
+
+canvas {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 150px;
+  box-shadow: 5px 2px 5px black;
+
+}
